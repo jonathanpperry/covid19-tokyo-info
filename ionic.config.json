@@ -1,0 +1,7 @@
+{
+  "name": "covid19-tokyo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
